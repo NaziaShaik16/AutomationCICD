@@ -1,0 +1,7 @@
+NaziaShaik\PageObjects\CartPage.class
+NaziaShaik\PageObjects\OrderPage.class
+NaziaShaik\PageObjects\CheckoutPage.class
+NaziaShaik\PageObjects\LandingPage.class
+NaziaShaik\PageObjects\ProductCatalogue.class
+NaziaShaik\AbstractComponents\AbstractComponent.class
+NaziaShaik\PageObjects\ConfirmationPage.class
