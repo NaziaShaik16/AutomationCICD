@@ -25,6 +25,7 @@ public class StandaloneTest {
         String country = "India";
 
         // Setup ChromeDriver with options to reduce logging warnings
+//Welcome to jenkins new trainings
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
 
